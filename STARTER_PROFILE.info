@@ -1,0 +1,39 @@
+name = STARTER PROFILE
+description = Install the STARTER PROFILE.
+version = VERSION
+core = 7.x
+
+; -------------------
+; Enable Core modules
+; -------------------
+
+dependencies[] = block
+dependencies[] = contact
+dependencies[] = dblog
+dependencies[] = taxonomy
+
+; ----------------------
+; Enable Contrib modules
+; ----------------------
+
+dependencies[] = admin_menu_toolbar
+dependencies[] = admin_views
+dependencies[] = ctools
+dependencies[] = devel
+dependencies[] = entity
+dependencies[] = entityreference
+dependencies[] = views
+dependencies[] = views_ui
+dependencies[] = views_bulk_operations
+
+; ---------------
+; Enable Features
+; ---------------
+
+;dependencies[] = your_custom_feature
+
+; ---------------------
+; Enable Custom modules
+; ---------------------
+
+;dependencies[] = your_custom_module
