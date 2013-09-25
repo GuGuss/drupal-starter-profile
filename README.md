@@ -118,7 +118,7 @@ You should end up with:
   * [yourprofilename]
 ```
 
-### 5. Install it
+### 6. Install it
 
 You can install your profile through the UI as a basic installation profile, or via Drush:
 ```
