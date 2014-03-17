@@ -18,4 +18,4 @@ api = 2
 ; Download Drupal Core
 ; --------------------
   
-projects[drupal][version] = "7.23"
+projects[drupal][version] = "7.26"
