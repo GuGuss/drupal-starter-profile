@@ -7,5 +7,4 @@ core = 7.x
 api = 2
 
 ; Drupal Core
-projects[drupal][version] = "7.32"
 projects[drupal][patch][] = "https://drupal.org/files/issues/install-redirect-on-empty-database-728702-36.patch"
