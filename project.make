@@ -11,31 +11,31 @@ defaults[projects][subdir] = contrib
 
 ; Contributed Modules
 
-projects[admin_menu][version] = "3.0-rc4"
-projects[admin_menu][type] = "module"
+projects[admin_menu][version] = 3.0-rc5
+projects[admin_menu][type] = module
 
-projects[admin_views][version] = "1.2"
-projects[admin_views][type] = "module"
+projects[admin_views][version] = 1.5
+projects[admin_views][type] = module
 
-projects[ctools][version] = "1.3"
-projects[ctools][type] = "module"
+projects[ctools][version] = 1.9
+projects[ctools][type] = module
 
-projects[devel][version] = 1.3
-projects[devel][type] = "module"
+projects[devel][version] = 1.5
+projects[devel][type] = module
 
-projects[entity][version] = "1.2"
-projects[entity][type] = "module"
+projects[entity][version] = 1.6
+projects[entity][type] = module
 
-projects[entityreference][version] = "1.0"
-projects[entityreference][type] = "module"
+projects[entityreference][version] = 1.1
+projects[entityreference][type] = module
 
-projects[views][version] = "3.7"
-projects[views][type] = "module"
+projects[views][version] = 3.11
+projects[views][type] = module
 
-projects[views_bulk_operations][version] = "3.1"
-projects[views_bulk_operations][type] = "module"
+projects[views_bulk_operations][version] = 3.3
+projects[views_bulk_operations][type] = module
 
 ; Contributed Themes
 
-projects[omega][version] = "3.1"
-projects[omega][type] = "module"
+projects[omega][version] = 4.4
+projects[omega][type] = module
